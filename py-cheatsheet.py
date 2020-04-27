@@ -1,13 +1,13 @@
-# Import packages
+### Import packages
 import pandas           # Regular import
 import pandas as pd     # Import with an alias
 from math import  sqrt  # Import submodule of a module
 
-# Operators:
+### Operators:
 print('Arithmetic: +, -, *, /, **, //, %')
 print('Assignment: =, +=, *=')
 
-# Variables & Assignment Operators
+### Variables & Assignment Operators
 
 # Regular Assignment
 x = 1
