@@ -22,3 +22,23 @@ print('Numeric: int, float, and Complex number')
 print("Boolean: 'True' or 'False'")
 print('Sequence: String, List, Tuple')
 print('Dictionary')
+
+### Working with Strings
+
+# Initialize
+print("some string")
+print('some string')
+print('This\'s a string')
+print("This's a string")
+print('"This is a string"')
+
+# Concatenation
+print('This' + ' ' + "a string")
+print('Hello' * 2)                  # output: HelloHello
+
+# Access Characters
+str = 'Hello there!'
+print(str[0])   # output: H
+
+# String's length
+print(len('abc'))   # output: 3
