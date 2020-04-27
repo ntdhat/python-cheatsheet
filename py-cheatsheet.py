@@ -43,6 +43,10 @@ print(str[0])   # output: H
 # String's length
 print(len('abc'))   # output: 3
 
+# Format Strings (f-strings)
+str = 'a'
+print(f'This is {str} string.')  # output: 'This is a string.'
+
 ### Type and Type Conversion
 int, str, flt = 5, '13', .25
 print(type(int))
