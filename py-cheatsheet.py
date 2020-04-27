@@ -42,3 +42,12 @@ print(str[0])   # output: H
 
 # String's length
 print(len('abc'))   # output: 3
+
+### Type and Type Conversion
+int, str, flt = 5, '13', .25
+print(type(int))
+print(type(str))
+print(type(flt))
+print(str(a))
+print(int(str))
+print(int(flt))
